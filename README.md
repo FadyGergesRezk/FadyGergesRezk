@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fady Samaan</h1>
-<h3 align="center">A Computer engineer, an informatics master's student at TUM, a passionate developer (primarily front-end & UI-UX design), and a team leader.</h3>
+<h3 align="center">Front-end developer & UI-UX designer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZxdWllYjRnMndtNGE4bTI0ZnZqYWg3NHc1YWpkbzIwenFvYmMwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadygergesrezk&label=Profile%20views&color=0e75b6&style=flat" alt="fadygergesrezk" /> </p>
 
