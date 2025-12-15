@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **fady.gerges.rezk@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/i2i22o7rsj](https://flowcv.com/resume/i2i22o7rsj)
+- 📄 Know about my experiences [CV]([https://flowcv.com/resume/i2i22o7rsj](https://docs.google.com/document/d/1gxMpG5CQUTNtztkKfN00UpP7_EGtESIu0X1nSJ_eICI/edit?usp=sharing))
 
 - ⚡ Fun fact **I am a funny guy (fingers crossed)**
 
