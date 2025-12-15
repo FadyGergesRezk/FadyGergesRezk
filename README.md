@@ -13,8 +13,8 @@
 
 - 🤝 I’m looking for help with **Software career-related advice**
 
-- 📫 How to reach me [My email](mailto:fady.gerge.rezk@gmail.com)
-
+- 📫 Reach me via email: [fady.gerge.rezk@gmail.com](mailto:fady.gerge.rezk@gmail.com)
+  
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/1gxMpG5CQUTNtztkKfN00UpP7_EGtESIu0X1nSJ_eICI/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a funny guy (fingers crossed)**
