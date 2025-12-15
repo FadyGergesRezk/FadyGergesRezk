@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadygergesrezk&label=Profile%20views&color=0e75b6&style=flat" alt="fadygergesrezk" /> </p>
 
 
-- 🔭 Website : [Business Card](https://fadygergesrezk.github.io/custom-business-card/)
+- 🔭 Website [Business Card](https://fadygergesrezk.github.io/custom-business-card/)
 
 - 🌱 I’m currently learning **Data Engineering and some Deep learning**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Software career-related advice**
 
-- 📫 How to reach me **fady.gerges.rezk@gmail.com**
+- 📫 How to reach me [My email](mailto:fady.gerge.rezk@gmail.com)
 
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/1gxMpG5CQUTNtztkKfN00UpP7_EGtESIu0X1nSJ_eICI/edit?usp=sharing)
 
